@@ -1,0 +1,11 @@
+.logo{
+    width: 80px;
+    height: 80px;
+    
+}
+
+#home{
+    background-image: url("../images/bg_header.jpg");
+    width: 100w;
+    height: 100vh;
+}
