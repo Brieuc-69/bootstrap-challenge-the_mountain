@@ -11,11 +11,32 @@
     background-size: cover;
 }
 
-.imagedeux {
-    width: 100vw;
-    height: 100vh;
+#about {
     background-image: url(../images/bg_nuage.jpg);
-  
+    background-size: cover;
+    background-position: center;
+
+
 
 }
+
+.container .carre {
+
+    width: 200px;
+    height: 200px;
+
+}
+
+.borderAbout{
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+
 
